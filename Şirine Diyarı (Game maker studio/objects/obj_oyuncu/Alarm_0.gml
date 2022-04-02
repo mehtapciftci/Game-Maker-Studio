@@ -1,0 +1,1 @@
+yurume_hizi = 5;

@@ -1,0 +1,1 @@
+ziplama_hizi = 8;
